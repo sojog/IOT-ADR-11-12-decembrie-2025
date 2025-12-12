@@ -10,7 +10,7 @@ Un ghid vizual pas cu pas pentru instalarea Docker Desktop și n8n, și crearea 
 2. [Instalare n8n cu Docker](#2-instalare-n8n-cu-docker)
 3. [Configurare inițială n8n](#3-configurare-inițială-n8n)
 4. [Primul workflow](#4-primul-tău-workflow)
-5. [Lucrul cu AI Agent](#5-lucrul-cu-ai-agent)
+5. [Lucrul cu MQTT](#5-lucrul-cu-mqtt)
 6. [Lucrul cu AI Agent](#6-lucrul-cu-ai-agent)
 
 ---
@@ -170,6 +170,29 @@ Deschide browser-ul și navighează la `http://localhost:5678`
 ![Căutare aplicație](Images/18.search_app.png)
 
 **Figura 17**: Folosește bara de căutare pentru a găsi rapid aplicația sau serviciul cu care vrei să te conectezi.
+
+---
+
+## 5. Lucrul cu MQTT
+
+### Pasul 5.1: Trigger MQTT
+
+![On Chat Message](Images/24.mqtt_trigger.heic)
+
+**Figura 18**: Triggerul mqtt functionează ca celelalte trigger (click etc).
+
+---
+
+### Pasul 5.2: Setarea Triggerului
+
+![AI Agent](Images/25.mqtt_setup.heic)
+
+---
+
+### Pasul 5.3: Setarea Topicului
+
+![Model AI](Images/26.mqtt_setup2.heic)
+
 
 ---
 
